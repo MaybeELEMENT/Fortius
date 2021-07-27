@@ -1,6 +1,6 @@
 # Fortius
 
-## A Operating System made in C++ with API for you to easily customize
+## A Operating System made in C++ with API to easily customize OS
 
 ### Developers:
 > ### Founder:
