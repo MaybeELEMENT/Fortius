@@ -2,9 +2,11 @@
 
 ## A Operating System made in C++ with API to easily customize OS
 
-### Developers:
-> ### Founder:
-> ELEMENT
+## Founder:
+- ELEMENT
+
+## Developers:
+- ELEMENT
 
 ## Completed Task:
 #### Progress: 37.5%
