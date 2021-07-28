@@ -35,7 +35,7 @@
 ![Eh, i think the image gone lol](https://media.discordapp.net/attachments/869123659212685363/869526938765623316/Screen_Shot_2021-07-27_at_6.29.30_PM.png)
 
 ## Source code license:
-> ### MIT License
+> ### BSD 3-Clause License
 
 ## What you need to do to make your own Operating System that is Fortius based:
 > ### Always credit Fortius from Your OS that based with Fortius, which is a Fortius Distribution
