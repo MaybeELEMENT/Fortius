@@ -38,6 +38,9 @@
 > ### MIT License
 
 ## What you need to do to make your own Operating System that is Fortius based:
-> ### Always credit Your OS that based with Fortius, which is a Fortius Distribution
+> ### Always credit Fortius from Your OS that based with Fortius, which is a Fortius Distribution
+> Example:
+  > Name your OS 'AnyName Fortius'
+  > Credit FortiusOS in your kernel, source code
 
 The code from scratch is made by M.L Pace, github of his [OS Project](https://github.com/mell-o-tron/MellOs). FortiusOS recoded alot by me, so its easier to understand & customize by public.
