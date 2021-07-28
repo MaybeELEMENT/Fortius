@@ -21,6 +21,7 @@
 #### Progress: 62.5%
 - ✗ File System (Under development)
   - ✗ Text editor
+  - ✗ Compress and depress .zip, .rar .etc
 - ✗ Custom font
 - ✗ Mouse input
 - ✗ Password input
@@ -28,7 +29,6 @@
 - ✗ GUI (Graphic User Interface)
 - ✗ Thread function
   - ✗ Subprocess (Thread function required.)
-    - ✗ Compress and depress .zip, .rar .etc(Subprocess required)
 
 ## Screenshot:
 
